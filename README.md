@@ -47,6 +47,9 @@
         <a href="mailto:farellfahroziofficial@gmail.com">
           <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
+        <a href="https://github.com/FarellFahrozi" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
       </div>
     </td>
     <td valign="top" width="45%">
@@ -114,7 +117,7 @@
         <a href="https://pandas.pydata.org/"><img src="assets/icons/pandas.png" height="48" alt="Pandas" /></a>
         <a href="https://www.ultralytics.com/"><img src="assets/icons/ultralytics.svg" height="48" alt="Ultralytics" /></a>
         <a href="https://roboflow.com/"><img src="assets/icons/roboflow.png" height="48" alt="Roboflow" /></a>
-        <a href="#"><img src="assets/icons/antigravity.jpeg" height="48" alt="Antigravity" /></a>
+        <a href="https://antigravity.google/"><img src="assets/icons/antigravity.jpeg" height="48" alt="Antigravity" /></a>
       </td>
     </tr>
     <tr>
@@ -126,6 +129,7 @@
         <b>DevOps</b>
       </td>
       <td align="left">
+        <a href="https://github.com/FarellFahrozi"><img src="https://skillicons.dev/icons?i=github" /></a>
         <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
         <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
         <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
