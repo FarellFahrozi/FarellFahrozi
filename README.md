@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Innovating%20with%20Code%20and%20Data&descAlignY=55&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Architecting%20Scalable%20Solutions&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%2FML%20Intelligence%20x%20Full%20Stack%20Architecture&descAlignY=55&descAlign=50" alt="header" />
 
   <br/>
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Farell+Fahrozi;AI%2FML+Researcher;Full+Stack+Developer;Building+Future+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Building+Production-Grade+Systems;End-to-End+Product+Ownership;Optimizing+AI+Workflows;Turning+Data+into+Business+Value" alt="Typing SVG" />
 
   <br/>
 
@@ -15,86 +15,81 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## � Professional Profile
 
-I am an **AI/ML Researcher** and **Computer Science Graduate (GPA 3.67)** from **BINUS University**, passionate about bridging the gap between advanced machine learning algorithms and scalable web architecture. My work focuses on developing predictive models using **Transfer Learning and YOLO** to enhance accuracy in real-world applications.
+I am a **Solutions Architect** and **Full Stack Engineer** with a specialized focus on integrating **Artificial Intelligence** into production-grade web ecosystems. I don't just write code; I design and build resilient, scalable systems that solve complex business problems.
 
-With a strong background in **Data Science** and **Full Stack Development**, I have honed my skills through rigorous research and intensive bootcamps. I am dedicated to understanding the full lifecycle of data science and software engineering, driving innovation through efficient code and intelligent data solutions.
+With a deep background in **R&D** and **System Design**, I specialize in bridging the gap between experimental AI models and robust, user-facing applications. My expertise spans the entire development lifecycle—from architectural planning and database design to CI/CD automation and cloud deployment.
+
+> *I partner with visionaries to turn concepts into high-performance digital products.*
 
 ---
 
-## 🏆 Certifications
+## �️ Technical Architecture & Stack
 
-| Certification | Issuer | Date | Link |
+<div align="center">
+
+| **Frontend Ecosystem** | **Backend Infrastructure** | **AI & Machine Learning** | **DevOps & Cloud** |
 | :--- | :--- | :--- | :--- |
-| **Data Scientist** | Digitalent (Kominfo PROA) | Jul 2022 | |
-| **The Complete SQL Bootcamp: Go From Zero to Hero** | Udemy | Dec 2024 | [View Certificate](https://www.udemy.com/certificate/UC-5f00178a-3ddb-4723-a808-f2ab38cbaf89/) |
-| **Deep Learning Mastery** | Udemy | Dec 2024 | [View Certificate](https://www.udemy.com/certificate/UC-67b88ad0-63cb-4af1-9b80-9a2cd08287b5/) |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-<a href="https://www.postgresql.org/docs/current/sql.html" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
-
-### AI / Machine Learning
-<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
-
-### Full Stack Web Development
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-<a href="https://astro.build/" target="_blank"><img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## � Professional Trajectory
 
-<div align="center">
+My career is defined by a commitment to research excellence and continuous technical mastery.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=omni&count_private=true&include_all_commits=true" alt="Farell's Stats" />
-</a>
-<br/>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarellFahrozi&layout=compact&theme=omni&langs_count=8" alt="Top Languages" />
-</a>
+### **AI/ML Researcher**
+*Sept 2021 - Present*
+*   **Innovation:** Pioneering predictive modeling techniques using **Transfer Learning** and **YOLO**.
+*   **Impact:** Delivered significant accuracy improvements in comparative model analysis, driving data-driven decision making.
+*   **Methodology:** Rigorous testing and validation protocols to ensure production-readiness of models.
 
-</div>
+### **Advanced Data Science Track** (Datacamp)
+*May 2022 - Jan 2025*
+*   **Specialization:** Deep dive into the complete Data Science lifecycle (ETL, Analysis, Modeling, Deployment).
+*   **Outcome:** Mastered the integration of complex data pipelines with modern application logic.
 
-<br/>
+---
+
+## 📈 Engineering Metrics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FarellFahrozi&theme=dark" alt="streak stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=omni&count_private=true&include_all_commits=true&hide_border=true" alt="Farell's Stats" />
 </div>
-
----
 
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/FarellFahrozi/FarellFahrozi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<br/>
+---
+
+## 🎓 Academic Foundation
+
+*   **Bachelor of Computer Science (GPA 3.67/4.00)** | *BINUS University*
+    *   *Focus: Intelligent Systems & Software Engineering*
+*   **Diploma of Telecommunication Technology** | *Telkom University*
+
+---
+
+## 🤝 Partnership & Collaboration
+
+I am currently open to consulting, partnership, and senior engineering roles where I can:
+*   Architect scalable full-stack applications.
+*   Lead the integration of AI/ML features into existing products.
+*   Optimize CI/CD pipelines and cloud infrastructure.
 
 <div align="center">
-  <h3>📫 Connect with Me</h3>
+  <h3>Let's Build Something Extraordinary</h3>
   <p>
     <a href="mailto:farellfahroziofficial@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
