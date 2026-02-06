@@ -1,14 +1,15 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Farell+Fahrozi;AI%2FML+Researcher;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Innovating%20with%20Code%20and%20Data&descAlignY=55&descAlign=50" alt="header" />
 
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=FarellFahrozi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-    </a>
-  </p>
+  <br/>
+  <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Innovating%20with%20Code%20and%20Data&descAlignY=55&descAlign=50" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Farell+Fahrozi;AI%2FML+Researcher;Full+Stack+Developer;Building+Future+Tech" alt="Typing SVG" />
+
+  <br/>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FarellFahrozi.FarellFahrozi&left_color=black&right_color=blue" alt="visitor badge"/>
 
 </div>
 
@@ -22,52 +23,13 @@ With a strong background in **Data Science** and **Full Stack Development**, I h
 
 ---
 
-## 💼 Career History
-
-### **AI/ML Researcher** (Part-Time)
-*Sept 2021 - Present*
-*   Developing predictive models using **Transfer Learning** and **YOLO** methodologies.
-*   Conducting comparative analysis to improve model accuracy against previous baselines using rigorous test datasets.
-
-### **Data Science Student** (Datacamp Bootcamp)
-*May 2022 - Jan 2025*
-*   Completed an intensive 2-year+ program focused on the complete Data Science lifecycle.
-*   Developed proficiency in data manipulation, visualization, and predictive analytics for professional environments.
-
----
-
-## 🎓 Education
-
-### **Bachelor of Computer Science**
-**BINUS University** | *Graduated 2024*
-*   **GPA:** 3.67
-*   *Focus: Artificial Intelligence & Software Engineering*
-
-### **Diploma of Telecommunication Technology**
-**Telkom University** | *Graduated 2021*
-*   **GPA:** 3.27
-
----
-
-## 📜 Publications
-
-**[International Journal of Online and Biomedical Engineering (iJOE)](https://doi.org/10.3991/ijoe.v18i04.27923)**
-*Mar 2022 - Present*
-*   Research contributor in biomedical engineering and online learning systems.
-
-**[The 7th IEEE Asia Pacific Conference on Wireless and Mobile (APWiMob)](https://ieeexplore.ieee.org/document/10014256)**
-*Dec 2022 - Present*
-*   Published research in wireless and mobile computing technologies.
-
----
-
 ## 🏆 Certifications
 
 | Certification | Issuer | Date | Link |
 | :--- | :--- | :--- | :--- |
-| **Data Scientist** | Digitalent (Kominfo PROA) | Jul 2022 | [View Credential](https://digitalent.kominfo.go.id/) |
-| **The Complete SQL Bootcamp: Go From Zero to Hero** | Udemy | Dec 2024 | [View Certificate](https://www.udemy.com/certificate/UC-5f00178a-3ddb-4723-a808f2ab38cbaf89/) |
-| **Deep Learning Mastery** | Udemy | Dec 2024 | [View Certificate](https://www.udemy.com/certificate/UC-67b88ad0-63cb-4af1-9b809a2cd08287b5/) |
+| **Data Scientist** | Digitalent (Kominfo PROA) | Jul 2022 | |
+| **The Complete SQL Bootcamp: Go From Zero to Hero** | Udemy | Dec 2024 | [View Certificate](https://www.udemy.com/certificate/UC-5f00178a-3ddb-4723-a808-f2ab38cbaf89/) |
+| **Deep Learning Mastery** | Udemy | Dec 2024 | [View Certificate](https://www.udemy.com/certificate/UC-67b88ad0-63cb-4af1-9b80-9a2cd08287b5/) |
 
 ---
 
