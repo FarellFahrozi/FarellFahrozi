@@ -16,7 +16,7 @@
   <br/>
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FarellFahrozi&theme=tokyonight&layout=compact&hide_border=true" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=farellfahrozi&theme=tokyonight&layout=compact&hide_border=true" alt="Wakatime Stats" />
 </div>
 
 <br/>
