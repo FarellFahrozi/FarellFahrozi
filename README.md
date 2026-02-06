@@ -47,10 +47,5 @@ My goal is to build intelligent applications where robust backend architecture m
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarellFahrozi&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarellFahrozi&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
-</p>
+![Farell's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarellFahrozi&layout=compact&theme=dark&hide_border=true)
