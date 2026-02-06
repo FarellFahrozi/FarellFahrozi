@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farellfahrozi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farell-fahrozi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@farellfahrozi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@farellfahroziofficial) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farellfahrozi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farell-fahrozi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@farellfahroziofficial) 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi,%20I'm%20Farell!&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=twinkling" width="100%"/>
@@ -45,7 +45,8 @@ My goal is to build intelligent applications where robust backend architecture m
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Activity Graph
 
-![Farell's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarellFahrozi&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarellFahrozi&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
