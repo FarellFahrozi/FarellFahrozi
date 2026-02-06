@@ -10,6 +10,10 @@
   <a href="https://farell-fahrozi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Farell%20Fahrozi-0f172a?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
+
+  <br/>
+  <br/>
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FarellFahrozi.FarellFahrozi&left_color=black&right_color=38bdf8" alt="visitor badge"/>
   <a href="https://wakatime.com/@2282cf3d-b587-48a1-9288-c6213c2b968a"><img src="https://wakatime.com/badge/user/2282cf3d-b587-48a1-9288-c6213c2b968a.svg" alt="Total time coded since Feb 6 2026" /></a>
 </div>
