@@ -10,6 +10,9 @@
   <a href="https://farell-fahrozi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Farell%20Fahrozi-0f172a?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT" />
+  </a>
 
   <br/>
   <br/>
@@ -171,4 +174,10 @@
   <a href="https://www.youtube.com/farellfahroziofficial" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <p>Released under the <a href="LICENSE">MIT License</a>. Copyright © 2026 Farell Fahrozi.</p>
 </div>
