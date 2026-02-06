@@ -10,7 +10,7 @@
   <br/>
 
   <a href="https://farell-fahrozi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f172a?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Farell%20Fahrozi-0f172a?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FarellFahrozi.FarellFahrozi&left_color=black&right_color=38bdf8" alt="visitor badge"/>
@@ -111,9 +111,10 @@
         <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
         <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>
         <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" /></a>
-        <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" /></a>
+        <a href="https://pandas.pydata.org/"><img src="assets/icons/pandas.png" height="48" alt="Pandas" /></a>
         <a href="https://www.ultralytics.com/"><img src="assets/icons/ultralytics.svg" height="48" alt="Ultralytics" /></a>
         <a href="https://roboflow.com/"><img src="assets/icons/roboflow.png" height="48" alt="Roboflow" /></a>
+        <a href="#"><img src="assets/icons/antigravity.jpeg" height="48" alt="Antigravity" /></a>
       </td>
     </tr>
     <tr>
