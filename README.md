@@ -47,13 +47,10 @@ My goal is to build intelligent applications where robust backend architecture m
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarellFahrozi&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarellFahrozi&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
----
-
-<div align="center">
-  <small><i>"The real problem with throwaway code comes when it isn't thrown away."</i> — Joseph Yoder</small>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FarellFahrozi&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
+</p>
