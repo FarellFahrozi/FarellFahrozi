@@ -33,13 +33,13 @@
         I am a <b>Solutions Architect</b> and <b>Full Stack Engineer</b> specializing in <b>AI-driven production systems</b>.
         I bridge the gap between complex R&D models and scalable, resilient web infrastructure.
       </p>
-      <br/>
       <b>🚀 Current Focus</b>
       <br/>
       Focusing on <b>AI Research</b> and <b>Full Stack Developer</b> roles.
       <br/>
       <br/>
       <b>📫 Reach Me</b>
+      <br/>
       <br/>
       <div align="left">
         <a href="https://www.linkedin.com/in/farell-fahrozi/" target="_blank">
@@ -77,9 +77,9 @@
       <td align="left">
         <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
         <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+        <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" /></a>
         <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
         <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-        <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
         <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
       </td>
     </tr>
@@ -96,7 +96,6 @@
         <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
         <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
         <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" /></a>
-        <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" /></a>
         <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
       </td>
     </tr>
@@ -114,6 +113,8 @@
         <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>
         <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" /></a>
         <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" /></a>
+        <a href="https://www.ultralytics.com/"><img src="https://img.shields.io/badge/Ultralytics-0052CC?style=flat&logo=ultralytics&logoColor=white"/></a>
+        <a href="https://roboflow.com/"><img src="https://img.shields.io/badge/Roboflow-6503E6?style=flat&logo=roboflow&logoColor=white"/></a>
       </td>
     </tr>
     <tr>
@@ -129,6 +130,7 @@
         <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
         <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
         <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+        <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
         <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
         <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a>
       </td>
