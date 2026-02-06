@@ -5,115 +5,158 @@
   <br/>
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Building+Production-Grade+Systems;End-to-End+Product+Ownership;Optimizing+AI+Workflows;Turning+Data+into+Business+Value" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38bdf8&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Building+Production-Grade+Systems;End-to-End+Product+Ownership;Optimizing+AI+Workflows;Turning+Data+into+Business+Value" alt="Typing SVG" />
 
-  <br/>
-
-  <br/>
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FarellFahrozi.FarellFahrozi&left_color=black&right_color=blue" alt="visitor badge"/>
-
-  <br/>
   <br/>
 
   <a href="https://farellfahrozi.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=000" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f172a?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-
-  <br/>
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FarellFahrozi&theme=omni&layout=compact&hide_border=true" alt="Wakatime Stats" />
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FarellFahrozi.FarellFahrozi&left_color=black&right_color=38bdf8" alt="visitor badge"/>
 
 </div>
 
 <br/>
+<br/>
 
-## Professional Profile
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h2>⚡ Professional Profile</h2>
+      <p>
+        I am a <b>Solutions Architect</b> and <b>Full Stack Engineer</b> specializing in <b>AI-driven production systems</b>.
+        I bridge the gap between complex R&D models and scalable, resilient web infrastructure.
+      </p>
+      <br/>
+      <b>🚀 Current Focus</b>
+      <br/>
+      Building enterprise AI pipelines and optimizing cloud-native deployments.
+      <br/>
+      <br/>
+      <b>📫 Reach Me</b>
+      <br/>
+      <a href="mailto:farellfahroziofficial@gmail.com">farellfahroziofficial@gmail.com</a>
+      <br/>
+      <br/>
+      <div align="left">
+        <a href="https://www.linkedin.com/in/farellfahrozi/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="mailto:farellfahroziofficial@gmail.com">
+          <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="45%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Stats" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarellFahrozi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-I am a **Solutions Architect** and **Full Stack Engineer** with a specialized focus on integrating **Artificial Intelligence** into production-grade web ecosystems. I don't just write code; I design and build resilient, scalable systems that solve complex business problems.
+<br/>
 
-With a deep background in **R&D** and **System Design**, I specialize in bridging the gap between experimental AI models and robust, user-facing applications. My expertise spans the entire development lifecycle—from architectural planning.
-
-> *I partner with visionaries to turn concepts into high-performance digital products.*
-
----
-
-## Technical Architecture & Stack
+## 🏗️ Tech Stack & Infrastructure
 
 <div align="center">
-
-| **Frontend Ecosystem** | **Backend Infrastructure** | **AI & Machine Learning** | **DevOps & Cloud** |
-| :--- | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![NextJS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react" width="35"/>
+        <br/>
+        <b>Frontend</b>
+      </td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,figma" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="35"/>
+        <br/>
+        <b>Backend</b>
+      </td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=nodejs,postgres,python,flask,graphql,mysql" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="35"/>
+        <br/>
+        <b>AI / ML</b>
+      </td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,pandas" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=docker" width="35"/>
+        <br/>
+        <b>DevOps</b>
+      </td>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,linux,bash" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
 
-## Professional Trajectory
+## 💼 Experience & Education
 
-My career is defined by a commitment to research excellence and continuous technical mastery.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Professional Trajectory</h3>
+      <p><b>AI/ML Researcher</b></p>
+      <p><i>Sept 2021 - Present</i></p>
+      <ul>
+        <li>Pioneering predictive modeling using <b>Transfer Learning</b> & <b>YOLO</b>.</li>
+        <li>Increasing model accuracy for production environments.</li>
+      </ul>
+      <p><b>Advanced Data Science (Datacamp)</b></p>
+      <p><i>May 2022 - Jan 2025</i></p>
+      <ul>
+        <li>Mastered end-to-end Data Science lifecycle (ETL, Modeling, Deployment).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Academic Foundation</h3>
+      <p><b>Bachelor of Computer Science</b></p>
+      <p><i>BINUS University (GPA 3.67/4.00)</i></p>
+      <p>Focus: Artificial Intelligence & Software Engineering</p>
+      <br/>
+      <p><b>Diploma of Telecommunication Tech</b></p>
+      <p><i>Telkom University (GPA 3.27/4.00)</i></p>
+      <p>Focus: Telecom Engineering & Machine Learning</p>
+    </td>
+  </tr>
+</table>
 
-### **AI/ML Researcher**
-*Sept 2021 - Present*
-*   **Innovation:** Pioneering predictive modeling techniques using **Transfer Learning** and **YOLO**.
-*   **Impact:** Delivered significant accuracy improvements in comparative model analysis, driving data-driven decision making.
-*   **Methodology:** Rigorous testing and validation protocols to ensure production-readiness of models.
+<br/>
 
-### **Advanced Data Science Track** (Datacamp)
-*May 2022 - Jan 2025*
-*   **Specialization:** Deep dive into the complete Data Science lifecycle (ETL, Analysis, Modeling, Deployment).
-*   **Outcome:** Mastered the integration of complex data pipelines with modern application logic.
-
----
-
-## Engineering Metrics
+## 📈 Engineering Performance
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FarellFahrozi&theme=dark" alt="streak stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=omni&count_private=true&include_all_commits=true&hide_border=true" alt="Farell's Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=FarellFahrozi&theme=tokyonight&hide_border=true" alt="Streak" />
+      </td>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FarellFahrozi&theme=tokyonight&layout=compact&hide_border=true" alt="Wakatime" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FarellFahrozi/FarellFahrozi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🎓 Academic Foundation
-
-*   **Bachelor of Computer Science (GPA 3.67/4.00)** | *BINUS University*
-    *   *Focus: Artificial Intelligence & Software Engineering*
-*   **Diploma of Telecommunication Technology (GPA 3,27/4.00)** | *Telkom University*
-    *   *Focus: Telecommunication Engineering & Machine Learning*
-
----
-
-## 🤝 Partnership & Collaboration
-
-I am currently open to consulting, partnership, and senior engineering roles where I can:
-*   Architect scalable full-stack applications.
-*   Lead the integration of AI/ML features into existing products.
-*   Research and implement new AI/ML models.
-
-<div align="center">
-  <h3>Let's Build Something Extraordinary</h3>
-  <p>
-    <a href="mailto:farellfahroziofficial@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/farellfahrozi/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://farellfahrozi.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
+  <img src="https://raw.githubusercontent.com/FarellFahrozi/FarellFahrozi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
