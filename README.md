@@ -45,8 +45,10 @@ My goal is to build intelligent applications where robust backend architecture m
 
 ---
 
-### 🔥 Activity Graph
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarellFahrozi&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarellFahrozi&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
