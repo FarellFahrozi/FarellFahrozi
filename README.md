@@ -50,6 +50,12 @@
         <a href="https://github.com/FarellFahrozi" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
+        <a href="https://www.instagram.com/farellfahrozi/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+        <a href="https://www.youtube.com/farellfahroziofficial" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+        </a>
       </div>
     </td>
     <td valign="top" width="45%">
@@ -129,7 +135,7 @@
         <b>DevOps</b>
       </td>
       <td align="left">
-        <a href="https://github.com/FarellFahrozi"><img src="https://skillicons.dev/icons?i=github" /></a>
+        <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
         <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
         <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
         <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
