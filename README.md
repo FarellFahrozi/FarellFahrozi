@@ -1,6 +1,3 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farellfahrozi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farell-fahrozi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@farellfahroziofficial) 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=170&section=header&text=Farell%20Fahrozi&fontSize=70&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=75" width="100%"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Bachelor+Computer+Science;AI+and+Web+Engineering;Building+Intelligent+Applications;Learning+MLOps+%26+Cloud" />
@@ -69,5 +66,8 @@ Halo! Saya **Farell**, lulusan Ilmu Komputer dari **BINUS University**. Saya ber
   </a>
   <a href="mailto:farellfahroziofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@farellfahroziofficial" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
