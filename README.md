@@ -9,11 +9,16 @@
 
   <br/>
 
-  <a href="https://farellfahrozi.com" target="_blank">
+  <a href="https://farell-fahrozi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f172a?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FarellFahrozi.FarellFahrozi&left_color=black&right_color=38bdf8" alt="visitor badge"/>
+
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FarellFahrozi&theme=tokyonight&layout=compact&hide_border=true" alt="Wakatime Stats" />
 
 </div>
 
@@ -31,16 +36,13 @@
       <br/>
       <b>🚀 Current Focus</b>
       <br/>
-      Building enterprise AI pipelines and optimizing cloud-native deployments.
+      Focusing on <b>AI Research</b> and <b>Full Stack Developer</b> roles.
       <br/>
       <br/>
       <b>📫 Reach Me</b>
       <br/>
-      <a href="mailto:farellfahroziofficial@gmail.com">farellfahroziofficial@gmail.com</a>
-      <br/>
-      <br/>
       <div align="left">
-        <a href="https://www.linkedin.com/in/farellfahrozi/" target="_blank">
+        <a href="https://www.linkedin.com/in/farell-fahrozi/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
         <a href="mailto:farellfahroziofficial@gmail.com">
@@ -66,42 +68,69 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=react" width="35"/>
+        <a href="https://react.dev/">
+          <img src="https://skillicons.dev/icons?i=react" width="35"/>
+        </a>
         <br/>
         <b>Frontend</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,figma" />
+        <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+        <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+        <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+        <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
+        <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="35"/>
+        <a href="https://nodejs.org/">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="35"/>
+        </a>
         <br/>
         <b>Backend</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=nodejs,postgres,python,flask,graphql,mysql" />
+        <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+        <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+        <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" /></a>
+        <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" /></a>
+        <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="35"/>
+        <a href="https://pytorch.org/">
+          <img src="https://skillicons.dev/icons?i=pytorch" width="35"/>
+        </a>
         <br/>
         <b>AI / ML</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,pandas" />
+        <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+        <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+        <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>
+        <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" /></a>
+        <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=docker" width="35"/>
+        <a href="https://www.docker.com/">
+          <img src="https://skillicons.dev/icons?i=docker" width="35"/>
+        </a>
         <br/>
         <b>DevOps</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,linux,bash" />
+        <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+        <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+        <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+        <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+        <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
+        <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a>
       </td>
     </tr>
   </table>
@@ -145,16 +174,7 @@
 ## 📈 Engineering Performance
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=FarellFahrozi&theme=tokyonight&hide_border=true" alt="Streak" />
-      </td>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FarellFahrozi&theme=tokyonight&layout=compact&hide_border=true" alt="Wakatime" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=FarellFahrozi&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 <div align="center">
