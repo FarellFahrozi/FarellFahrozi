@@ -112,8 +112,8 @@
         <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>
         <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" /></a>
         <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" /></a>
-        <a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/FarellFahrozi/FarellFahrozi/main/assets/icons/ultralytics.svg" width="48" height="48" alt="Ultralytics" /></a>
-        <a href="https://roboflow.com/"><img src="https://raw.githubusercontent.com/FarellFahrozi/FarellFahrozi/main/assets/icons/roboflow.svg" width="48" height="48" alt="Roboflow" /></a>
+        <a href="https://www.ultralytics.com/"><img src="assets/icons/ultralytics.svg" height="48" alt="Ultralytics" /></a>
+        <a href="https://roboflow.com/"><img src="assets/icons/roboflow.png" height="48" alt="Roboflow" /></a>
       </td>
     </tr>
     <tr>
