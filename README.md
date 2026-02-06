@@ -38,25 +38,6 @@
       Focusing on <b>AI Research</b> and <b>Full Stack Developer</b> roles.
       <br/>
       <br/>
-      <b>📫 Reach Me</b>
-      <br/>
-      <div align="left">
-        <a href="https://www.linkedin.com/in/farell-fahrozi/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="mailto:farellfahroziofficial@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <a href="https://github.com/FarellFahrozi" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <a href="https://www.instagram.com/farellfahrozi/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
-        <a href="https://www.youtube.com/farellfahroziofficial" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-        </a>
-      </div>
     </td>
     <td valign="top" width="45%">
       <div align="center">
@@ -191,4 +172,25 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/FarellFahrozi/FarellFahrozi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📫 Reach Me</h2>
+  <a href="https://www.linkedin.com/in/farell-fahrozi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:farellfahroziofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/FarellFahrozi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/farellfahrozi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/farellfahroziofficial" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </div>
