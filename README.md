@@ -49,8 +49,9 @@ Halo! Saya **Farell**, lulusan Ilmu Komputer dari **BINUS University**. Saya ber
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarellFahrozi&layout=compact&theme=dark&hide_border=true" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarellFahrozi&layout=compact&theme=dark&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
