@@ -151,11 +151,11 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Academic Foundation</h3>
-      <p><b>Bachelor of Computer Science</b></p>
+      <p><b>Bachelor of Computer Science</b> (2020 - 2024)</p>
       <p><i>BINUS University (GPA 3.67/4.00)</i></p>
       <p>Focus: Artificial Intelligence & Software Engineering</p>
       <br/>
-      <p><b>Diploma of Telecommunication Tech</b></p>
+      <p><b>Diploma of Telecommunication Tech</b> (2018 - 2021)</p>
       <p><i>Telkom University (GPA 3.27/4.00)</i></p>
       <p>Focus: Telecom Engineering & Machine Learning</p>
     </td>
