@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Farell%20Fahrozi&fontSize=80&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20|%20Full%20Stack%20Developer&descSize=25&descAlignY=65" width="100%"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science;AI+and+Web+Engineering;Building+Intelligent+Applications;Learning+MLOps+%26+Cloud)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500;AI+and+Web+Engineering;Building+Intelligent+Applications;Learning+MLOps+%26+Cloud)](https://git.io/typing-svg)
 </div>
 
 ### 🚀 About Me
@@ -66,7 +66,7 @@ Halo! Saya **Farell**, lulusan Ilmu Komputer dari **BINUS University**. Saya ber
   <a href="https://linkedin.com/in/farell-fahrozi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:email-kamu@gmail.com">
+  <a href="mailto:farellfahroziofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
