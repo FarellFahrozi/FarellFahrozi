@@ -151,7 +151,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Academic Foundation</h3>
-      <p><b>Bachelor of Computer Science</b> (2020 - 2024)</p>
+      <p><b>Bachelor of Computer Science</b> (2022 - 2024)</p>
       <p><i>BINUS University (GPA 3.67/4.00)</i></p>
       <p>Focus: Artificial Intelligence & Software Engineering</p>
       <br/>
