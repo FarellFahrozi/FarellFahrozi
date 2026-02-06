@@ -35,14 +35,6 @@
         <li>Optimizing system performance and scalability.</li>
         <li>Leading technical strategy from concept to deployment.</li>
       </ul>
-      <p align="left">
-        <a href="https://www.linkedin.com/in/farell-fahrozi/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="mailto:farellfahroziofficial@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Inquiry-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-      </p>
     </td>
     <td valign="top" width="45%">
       <div align="center">
