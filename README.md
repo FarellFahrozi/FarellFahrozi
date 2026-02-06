@@ -12,11 +12,7 @@
   </a>
   &nbsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FarellFahrozi.FarellFahrozi&left_color=black&right_color=38bdf8" alt="visitor badge"/>
-
-  <br/>
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=farellfahrozi&theme=tokyonight&layout=compact&hide_border=true" alt="Wakatime Stats" />
+  <a href="https://wakatime.com/@2282cf3d-b587-48a1-9288-c6213c2b968a"><img src="https://wakatime.com/badge/user/2282cf3d-b587-48a1-9288-c6213c2b968a.svg" alt="Total time coded since Feb 6 2026" /></a>
 </div>
 
 <br/>
