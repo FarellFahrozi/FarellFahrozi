@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Farell+Fahrozi;AI%2FML+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Farell+Fahrozi;AI%2FML+Researcher;Full+Stack+Developer" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -16,7 +16,58 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **AI/ML Engineer** and **Full Stack Developer** dedicated to building intelligent, scalable, and user-centric solutions. With a strong foundation in data science and modern web technologies, I bridge the gap between complex algorithms and intuitive user interfaces. My goal is to leverage technology to solve real-world problems and drive innovation.
+I am an **AI/ML Researcher** and **Computer Science Graduate (GPA 3.67)** from **BINUS University**, passionate about bridging the gap between advanced machine learning algorithms and scalable web architecture. My work focuses on developing predictive models using **Transfer Learning and YOLO** to enhance accuracy in real-world applications.
+
+With a strong background in **Data Science** and **Full Stack Development**, I have honed my skills through rigorous research and intensive bootcamps. I am dedicated to understanding the full lifecycle of data science and software engineering, driving innovation through efficient code and intelligent data solutions.
+
+---
+
+## 💼 Career History
+
+### **AI/ML Researcher** (Part-Time)
+*Sept 2021 - Present*
+*   Developing predictive models using **Transfer Learning** and **YOLO** methodologies.
+*   Conducting comparative analysis to improve model accuracy against previous baselines using rigorous test datasets.
+
+### **Data Science Student** (Datacamp Bootcamp)
+*May 2022 - Jan 2025*
+*   Completed an intensive 2-year+ program focused on the complete Data Science lifecycle.
+*   Developed proficiency in data manipulation, visualization, and predictive analytics for professional environments.
+
+---
+
+## 🎓 Education
+
+### **Bachelor of Computer Science**
+**BINUS University** | *Graduated 2024*
+*   **GPA:** 3.67
+*   *Focus: Artificial Intelligence & Software Engineering*
+
+### **Diploma of Telecommunication Technology**
+**Telkom University** | *Graduated 2021*
+*   **GPA:** 3.27
+
+---
+
+## 📜 Publications
+
+**[International Journal of Online and Biomedical Engineering (iJOE)](https://doi.org/10.3991/ijoe.v18i04.27923)**
+*Mar 2022 - Present*
+*   Research contributor in biomedical engineering and online learning systems.
+
+**[The 7th IEEE Asia Pacific Conference on Wireless and Mobile (APWiMob)](https://ieeexplore.ieee.org/document/10014256)**
+*Dec 2022 - Present*
+*   Published research in wireless and mobile computing technologies.
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Date | Link |
+| :--- | :--- | :--- | :--- |
+| **Data Scientist** | Digitalent (Kominfo PROA) | Jul 2022 | [View Credential](https://digitalent.kominfo.go.id/) |
+| **The Complete SQL Bootcamp: Go From Zero to Hero** | Udemy | Dec 2024 | [View Certificate](https://www.udemy.com/certificate/UC-5f00178a-3ddb-4723-a808f2ab38cbaf89/) |
+| **Deep Learning Mastery** | Udemy | Dec 2024 | [View Certificate](https://www.udemy.com/certificate/UC-67b88ad0-63cb-4af1-9b809a2cd08287b5/) |
 
 ---
 
@@ -68,7 +119,7 @@ I am a passionate **AI/ML Engineer** and **Full Stack Developer** dedicated to b
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarellFahrozi&theme=dark&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=FarellFahrozi&theme=dark" alt="streak stats" />
 </div>
 
 ---
@@ -83,7 +134,7 @@ I am a passionate **AI/ML Engineer** and **Full Stack Developer** dedicated to b
 <div align="center">
   <h3>📫 Connect with Me</h3>
   <p>
-    <a href="mailto:contact@farellfahrozi.com">
+    <a href="mailto:farellfahroziofficial@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/farellfahrozi/" target="_blank">
