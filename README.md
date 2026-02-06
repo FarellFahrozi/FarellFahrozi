@@ -9,23 +9,37 @@
 
   <br/>
 
+  <br/>
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FarellFahrozi.FarellFahrozi&left_color=black&right_color=blue" alt="visitor badge"/>
+
+  <br/>
+  <br/>
+
+  <a href="https://farellfahrozi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=000" alt="Portfolio" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FarellFahrozi&theme=omni&layout=compact&hide_border=true" alt="Wakatime Stats" />
 
 </div>
 
 <br/>
 
-## � Professional Profile
+## Professional Profile
 
 I am a **Solutions Architect** and **Full Stack Engineer** with a specialized focus on integrating **Artificial Intelligence** into production-grade web ecosystems. I don't just write code; I design and build resilient, scalable systems that solve complex business problems.
 
-With a deep background in **R&D** and **System Design**, I specialize in bridging the gap between experimental AI models and robust, user-facing applications. My expertise spans the entire development lifecycle—from architectural planning and database design to CI/CD automation and cloud deployment.
+With a deep background in **R&D** and **System Design**, I specialize in bridging the gap between experimental AI models and robust, user-facing applications. My expertise spans the entire development lifecycle—from architectural planning.
 
 > *I partner with visionaries to turn concepts into high-performance digital products.*
 
 ---
 
-## �️ Technical Architecture & Stack
+## Technical Architecture & Stack
 
 <div align="center">
 
@@ -40,7 +54,7 @@ With a deep background in **R&D** and **System Design**, I specialize in bridgin
 
 ---
 
-## � Professional Trajectory
+## Professional Trajectory
 
 My career is defined by a commitment to research excellence and continuous technical mastery.
 
@@ -57,7 +71,7 @@ My career is defined by a commitment to research excellence and continuous techn
 
 ---
 
-## 📈 Engineering Metrics
+## Engineering Metrics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FarellFahrozi&theme=dark" alt="streak stats" />
@@ -76,8 +90,9 @@ My career is defined by a commitment to research excellence and continuous techn
 ## 🎓 Academic Foundation
 
 *   **Bachelor of Computer Science (GPA 3.67/4.00)** | *BINUS University*
-    *   *Focus: Intelligent Systems & Software Engineering*
-*   **Diploma of Telecommunication Technology** | *Telkom University*
+    *   *Focus: Artificial Intelligence & Software Engineering*
+*   **Diploma of Telecommunication Technology (GPA 3,27/4.00)** | *Telkom University*
+    *   *Focus: Telecommunication Engineering & Machine Learning*
 
 ---
 
@@ -86,7 +101,7 @@ My career is defined by a commitment to research excellence and continuous techn
 I am currently open to consulting, partnership, and senior engineering roles where I can:
 *   Architect scalable full-stack applications.
 *   Lead the integration of AI/ML features into existing products.
-*   Optimize CI/CD pipelines and cloud infrastructure.
+*   Research and implement new AI/ML models.
 
 <div align="center">
   <h3>Let's Build Something Extraordinary</h3>
