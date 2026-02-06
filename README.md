@@ -1,11 +1,9 @@
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Architecting%20Scalable%20Solutions&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%2FML%20Intelligence%20x%20Full%20Stack%20Architecture&descAlignY=55&descAlign=50" alt="header" />
 
   <br/>
-  <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38bdf8&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Building+Production-Grade+Systems;End-to-End+Product+Ownership;Optimizing+AI+Workflows;Turning+Data+into+Business+Value" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38bdf8&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Strategic+Solutions+Architecture;Production-Grade+AI+Systems;Full+Stack+Engineering+Excellence;Optimizing+Intelligent+Workflows" alt="Typing SVG" />
 
   <br/>
 
@@ -19,7 +17,6 @@
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FarellFahrozi&theme=tokyonight&layout=compact&hide_border=true" alt="Wakatime Stats" />
-
 </div>
 
 <br/>
@@ -28,16 +25,24 @@
 <table>
   <tr>
     <td valign="top" width="55%">
-      <h2>⚡ Professional Profile</h2>
+      <h2>🚀 Strategic Vision</h2>
       <p>
-        I am a <b>Solutions Architect</b> and <b>Full Stack Engineer</b> specializing in <b>AI-driven production systems</b>.
-        I bridge the gap between complex R&D models and scalable, resilient web infrastructure.
+        I am a <b>Solutions Architect</b> and <b>Full Stack Engineer</b> focused on building <b>production-grade AI ecosystems</b>. I specialize in bridging the gap between cutting-edge R&D models and resilient, scalable cloud infrastructure.
       </p>
-      <b>🚀 Current Focus</b>
-      <br/>
-      Focusing on <b>AI Research</b> and <b>Full Stack Developer</b> roles.
-      <br/>
-      <br/>
+      <b>🎯 Professional Focus</b>
+      <ul>
+        <li>Architecting end-to-end AI-driven products.</li>
+        <li>Optimizing system performance and scalability.</li>
+        <li>Leading technical strategy from concept to deployment.</li>
+      </ul>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/farell-fahrozi/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="mailto:farellfahroziofficial@gmail.com">
+          <img src="https://img.shields.io/badge/Email-Inquiry-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </p>
     </td>
     <td valign="top" width="45%">
       <div align="center">
@@ -51,56 +56,20 @@
 
 <br/>
 
-## 🏗️ Tech Stack & Infrastructure
+## 🏗️ Technical Domain & Infrastructure
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="120">
-        <a href="https://react.dev/">
-          <img src="https://skillicons.dev/icons?i=react" width="35"/>
-        </a>
-        <br/>
-        <b>Frontend</b>
+      <td align="center" width="150" valign="middle">
+        <br/><b>Visionary Arm</b><br/>(AI / ML)
       </td>
       <td align="left">
-        <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
-        <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
-        <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" /></a>
-        <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
-        <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-        <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <a href="https://nodejs.org/">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="35"/>
-        </a>
+        <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
+        <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" /></a>
+        <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" /></a>
+        <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-Learn" /></a>
         <br/>
-        <b>Backend</b>
-      </td>
-      <td align="left">
-        <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-        <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
-        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
-        <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" /></a>
-        <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <a href="https://pytorch.org/">
-          <img src="https://skillicons.dev/icons?i=pytorch" width="35"/>
-        </a>
-        <br/>
-        <b>AI / ML</b>
-      </td>
-      <td align="left">
-        <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
-        <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
-        <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>
-        <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" /></a>
         <a href="https://pandas.pydata.org/"><img src="assets/icons/pandas.png" height="48" alt="Pandas" /></a>
         <a href="https://www.ultralytics.com/"><img src="assets/icons/ultralytics.svg" height="48" alt="Ultralytics" /></a>
         <a href="https://roboflow.com/"><img src="assets/icons/roboflow.png" height="48" alt="Roboflow" /></a>
@@ -108,22 +77,37 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="120">
-        <a href="https://www.docker.com/">
-          <img src="https://skillicons.dev/icons?i=docker" width="35"/>
-        </a>
-        <br/>
-        <b>DevOps</b>
+      <td align="center" width="150" valign="middle">
+        <br/><b>Engineering Arm</b><br/>(Architecture)
       </td>
       <td align="left">
-        <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
-        <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
-        <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
-        <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
-        <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
-        <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-        <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
-        <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a>
+        <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+        <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+        <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+        <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+        <br/>
+        <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+        <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+        <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+        <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150" valign="middle">
+        <br/><b>Operations Arm</b><br/>(DevOps & Scale)
+      </td>
+      <td align="left">
+        <a href="https://github.com/FarellFahrozi"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+        <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+        <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+        <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+        <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+        <br/>
+        <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
+        <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+        <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
       </td>
     </tr>
   </table>
@@ -131,40 +115,42 @@
 
 <br/>
 
-## 💼 Experience & Education
+## 💼 Professional & Academic Path
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💼 Professional Trajectory</h3>
-      <p><b>AI/ML Researcher</b></p>
-      <p><i>Sept 2021 - Present</i></p>
-      <ul>
-        <li>Pioneering predictive modeling using <b>Transfer Learning</b> & <b>YOLO</b>.</li>
-        <li>Increasing model accuracy for production environments.</li>
-      </ul>
-      <p><b>Advanced Data Science (Datacamp)</b></p>
-      <p><i>May 2022 - Jan 2025</i></p>
-      <ul>
-        <li>Mastered end-to-end Data Science lifecycle (ETL, Modeling, Deployment).</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 Academic Foundation</h3>
-      <p><b>Bachelor of Computer Science</b> (2022 - 2024)</p>
-      <p><i>BINUS University (GPA 3.67/4.00)</i></p>
-      <p>Focus: Artificial Intelligence & Software Engineering</p>
-      <br/>
-      <p><b>Diploma of Telecommunication Tech</b> (2018 - 2021)</p>
-      <p><i>Telkom University (GPA 3.27/4.00)</i></p>
-      <p>Focus: Telecom Engineering & Machine Learning</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🏛️ Experience</h3>
+        <p><b>AI/ML Researcher</b></p>
+        <p><i>Sept 2021 - Present</i></p>
+        <ul>
+          <li>Predictive modeling using <b>Transfer Learning</b> & <b>YOLO</b>.</li>
+          <li>Optimizing precision for production environments.</li>
+        </ul>
+        <p><b>Advanced Data Science</b></p>
+        <p><i>May 2022 - Jan 2025 · Datacamp</i></p>
+        <ul>
+          <li>End-to-end DS lifecycle (ETL to Deployment).</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🎓 Education</h3>
+        <p><b>Bachelor of Computer Science</b></p>
+        <p><i>BINUS University · 2022 - 2024</i></p>
+        <p>Artificial Intelligence · <b>GPA 3.67/4.00</b></p>
+        <br/>
+        <p><b>Diploma of Telecommunication</b></p>
+        <p><i>Telkom University · 2018 - 2021</i></p>
+        <p>Telecom & ML · <b>GPA 3.27/4.00</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
-## 📈 Engineering Performance
+## 📈 Engineering Momentum
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FarellFahrozi&theme=tokyonight&hide_border=true" alt="Streak" />
@@ -177,7 +163,8 @@
 <br/>
 
 <div align="center">
-  <h2>📫 Reach Me</h2>
+  <h2>📫 Let's Architect the Future</h2>
+  <p>I am always open to discussing strategic partnerships, AI research collaborations, or innovative full-stack projects.</p>
   <a href="https://www.linkedin.com/in/farell-fahrozi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
