@@ -146,8 +146,7 @@
   </table>
 </div>
 
-<br/>
-
+---
 ### 📚 Selected Publications
 
 Saya aktif mempublikasikan hasil riset di jurnal dan konferensi internasional:
@@ -160,7 +159,6 @@ Saya aktif mempublikasikan hasil riset di jurnal dan konferensi internasional:
     * *Diterbitkan oleh APWiMob (Des 2022)*
     * 🔗 [Baca di IEEE Xplore](https://ieeexplore.ieee.org/document/10014256)
 ---
-<br/>
 
 ## 📈 Engineering Momentum
 
