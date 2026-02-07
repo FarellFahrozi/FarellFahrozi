@@ -1,0 +1,24 @@
+# GitHub Profile Statistics Configuration
+# This file centralizes the settings for the GitHub stats cards in README.md
+
+github_username: FarellFahrozi
+
+# Global Theme Settings
+theme: tokyonight
+hide_border: true
+
+# GitHub Readme Stats Settings
+# See: https://github.com/anuraghazra/github-readme-stats
+stats_card:
+  show_icons: true
+  count_private: true
+  include_all_commits: true
+
+top_languages_card:
+  layout: compact
+  langs_count: 6
+
+# GitHub Readme Streak Stats Settings
+# See: https://github.com/konpa/streak-stats
+streak_stats:
+  active: true
