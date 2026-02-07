@@ -29,13 +29,18 @@
     <td valign="top" width="55%">
       <h2>🚀 Strategic Vision</h2>
       <p>
-        I am a <b>Solutions Architect</b> and <b>Full Stack Engineer</b> focused on building <b>production-grade AI ecosystems</b>. I specialize in bridging the gap between cutting-edge R&D models and resilient, scalable cloud infrastructure.
+       # Hi there! I'm an AI/ML Researcher 👋<br/>
+        Seorang praktisi Data Science dan AI/ML Researcher dengan pengalaman mendalam <br/> 
+        dalam pengembangan model Machine Learning, khususnya Computer Vision. <br/>
+        Saya memiliki keahlian dalam **Python** dan **SQL**, serta tersertifikasi dalam siklus hidup Data Science. <br/>
+        Fokus utama saya saat ini adalah mengembangkan model prediksi presisi tinggi menggunakan metode Transfer Learning <br/>
+        dan YOLO untuk kebutuhan riset dan industri.
       </p>
       <b>🎯 Professional Focus</b>
       <ul>
-        <li>Architecting end-to-end AI-driven products.</li>
-        <li>Optimizing system performance and scalability.</li>
-        <li>Leading technical strategy from concept to deployment.</li>
+        <li>Merancang produk berbasis AI secara menyeluruh.</li>
+        <li>Mengoptimalkan kinerja dan skalabilitas sistem.</li>
+        <li>Memimpin strategi teknis dari konsep hingga implementasi..</li>
       </ul>
     </td>
     <td valign="top" width="45%">
