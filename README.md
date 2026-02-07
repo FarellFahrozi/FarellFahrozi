@@ -29,7 +29,6 @@
     <td valign="top" width="55%">
       <h2>🚀 Strategic Vision</h2>
       <p>
-       # Hi there! I'm an AI/ML Researcher 👋<br/>
         Seorang praktisi Data Science dan AI/ML Researcher dengan pengalaman mendalam <br/> 
         dalam pengembangan model Machine Learning, khususnya Computer Vision. <br/>
         Saya memiliki keahlian dalam **Python** dan **SQL**, serta tersertifikasi dalam siklus hidup Data Science. <br/>
