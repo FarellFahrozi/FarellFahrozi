@@ -169,8 +169,8 @@ Saya aktif mempublikasikan hasil riset di jurnal dan konferensi internasional:
     * 🔗 [Baca di IEEE Xplore](https://ieeexplore.ieee.org/document/10014256)
 
 ---
- > *Tertarik untuk berkolaborasi dalam proyek AI/ML? Jangan ragu untuk menghubungi saya!*
 <div align="center">
+   > *Tertarik untuk berkolaborasi dalam proyek AI/ML? Jangan ragu untuk menghubungi saya!*
   <h2>📫 Let's Architect the Future</h2>
   <p>I am always open to discussing strategic partnerships, AI research collaborations, or innovative full-stack projects.</p>
   <a href="https://www.linkedin.com/in/farell-fahrozi/" target="_blank">
