@@ -44,6 +44,10 @@
     </td>
     <td valign="top" width="45%">
       <div align="center">
+        <a href="stats.yml">
+          <img src="https://img.shields.io/badge/Config-stats.yml-38bdf8?style=flat-square&logo=yaml&logoColor=white" alt="Stats Config" />
+        </a>
+        <br/>
         <img src="https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Stats" />
         <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarellFahrozi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" />
