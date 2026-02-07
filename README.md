@@ -171,7 +171,7 @@ Saya aktif mempublikasikan hasil riset di jurnal dan konferensi internasional:
 ---
 <div align="center">
   <h2>📫 Let's Architect the Future</h2>
-  <p>*"Tertarik untuk berkolaborasi dalam proyek AI/ML? Jangan ragu untuk menghubungi saya!"*.</p>
+  <p><b>"Tertarik untuk berkolaborasi dalam proyek AI/ML? Jangan ragu untuk menghubungi saya!"*.</b></p>
   <a href="https://www.linkedin.com/in/farell-fahrozi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
