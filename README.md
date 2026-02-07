@@ -80,8 +80,8 @@
         <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
         <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
         <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
         <br/>
+        <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
         <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
         <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
         <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
@@ -97,8 +97,8 @@
         <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
         <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
         <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-        <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
         <br/>
+        <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
         <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
         <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
         <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
@@ -156,6 +156,20 @@
 
 <br/>
 
+### 📚 Selected Publications
+
+Saya aktif mempublikasikan hasil riset di jurnal dan konferensi internasional:
+
+1.  **International Journal of Online and Biomedical Engineering (iJOE)**
+    * *Diterbitkan oleh iJOE (Mar 2022)*
+    * 🔗 [Baca Publikasi](https://doi.org/10.3991/ijoe.v18i04.27923)
+
+2.  **The 7th IEEE Asia Pacific Conference on Wireless and Mobile**
+    * *Diterbitkan oleh APWiMob (Des 2022)*
+    * 🔗 [Baca di IEEE Xplore](https://ieeexplore.ieee.org/document/10014256)
+
+---
+*Tertarik untuk berkolaborasi dalam proyek AI/ML? Jangan ragu untuk menghubungi saya!*
 <div align="center">
   <h2>📫 Let's Architect the Future</h2>
   <p>I am always open to discussing strategic partnerships, AI research collaborations, or innovative full-stack projects.</p>
