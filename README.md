@@ -29,9 +29,9 @@
     <td valign="top" width="55%">
       <h2>🚀 Strategic Vision</h2>
       <p>
-        Seorang praktisi Data Science dan AI/ML Researcher dengan pengalaman mendalam
+        Seorang AI/ML Researcher dan Full Stack Developer dengan pengalaman mendalam
         dalam pengembangan model Machine Learning, khususnya Computer Vision. <br/>
-        Saya memiliki keahlian dalam **Python** dan **SQL**, serta tersertifikasi dalam siklus hidup Data Science. <br/>
+        Saya memiliki keahlian dalam <b>AI</b>dan<b>Machine Learning</b>, serta tersertifikasi dalam siklus hidup Data Science. <br/>
         Fokus utama saya saat ini adalah mengembangkan model prediksi presisi tinggi menggunakan metode Transfer Learning
         dan YOLO untuk kebutuhan riset dan industri.
       </p>
