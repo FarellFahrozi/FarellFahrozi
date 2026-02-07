@@ -148,18 +148,6 @@
 
 <br/>
 
-## 📈 Engineering Momentum
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FarellFahrozi&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FarellFahrozi/FarellFahrozi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
-<br/>
-
 ### 📚 Selected Publications
 
 Saya aktif mempublikasikan hasil riset di jurnal dan konferensi internasional:
@@ -171,6 +159,18 @@ Saya aktif mempublikasikan hasil riset di jurnal dan konferensi internasional:
 2.  **The 7th IEEE Asia Pacific Conference on Wireless and Mobile**
     * *Diterbitkan oleh APWiMob (Des 2022)*
     * 🔗 [Baca di IEEE Xplore](https://ieeexplore.ieee.org/document/10014256)
+---
+<br/>
+
+## 📈 Engineering Momentum
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FarellFahrozi&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FarellFahrozi/FarellFahrozi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
 
 ---
 <div align="center">
