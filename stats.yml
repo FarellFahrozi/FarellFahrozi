@@ -1,24 +1,20 @@
-# GitHub Profile Statistics Configuration
-# This file centralizes the settings for the GitHub stats cards in README.md
+# GitHub Metrics Configuration
+# This file is used by the metrics.yml workflow to generate your profile statistics.
 
 github_username: FarellFahrozi
-
-# Global Theme Settings
 theme: tokyonight
-hide_border: true
 
-# GitHub Readme Stats Settings
-# See: https://github.com/anuraghazra/github-readme-stats
-stats_card:
-  show_icons: true
-  count_private: true
-  include_all_commits: true
+# Plugins and Features
+base: header, activity, community, repositories, metadata
+plugin_languages: yes
+plugin_languages_ignored: html, css
+plugin_languages_details: bytes-size, percentage
+plugin_languages_limit: 8
 
-top_languages_card:
-  layout: compact
-  langs_count: 6
+plugin_lines: yes
 
-# GitHub Readme Streak Stats Settings
-# See: https://github.com/konpa/streak-stats
-streak_stats:
-  active: true
+plugin_followup: yes
+plugin_followup_sections: repositories, user
+
+plugin_isocalendar: yes
+plugin_isocalendar_duration: half-year
