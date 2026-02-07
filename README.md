@@ -44,7 +44,9 @@
     </td>
     <td valign="top" width="45%">
       <div align="center">
-        <img src="github-metrics.svg" alt="Metrics" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=FarellFahrozi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Stats" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarellFahrozi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" />
       </div>
     </td>
   </tr>
